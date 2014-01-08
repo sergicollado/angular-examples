@@ -1,4 +1,5 @@
 angular-examples
 ================
 
-angular
+angular exampe test directive with HttpRequest Mocked
+***unitTestWithHttpMock.js
